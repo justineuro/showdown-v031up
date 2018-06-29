@@ -2,11 +2,12 @@
 // showdown-gui-css-300.js
 //
 // Author: JLA Uro (justineuro@gmail.com)
-// Date: 2018-06-30 00:06:00   
+// Date: 2018-06-30 00:04:49  
 //
 // This script inserts additional css rules into Moodle pages for the  
 // proper rendering of showdon-gui.html.
-// The codes based on an answer of User:Martin Wantke in StackOverflow to  
+// The codes based on an answer of User:Grant Miller in StackOverflow 
+// (https://stackoverflow.com/users/4283581/grant-miller) to  
 // https://stackoverflow.com/questions/707565/how-do-you-add-css-with-javascript.
 // The styles are from showdown-gui.html.
 //
