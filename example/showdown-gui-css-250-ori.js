@@ -3,7 +3,6 @@
 //
 // Author: JLA Uro (justineuro@gmail.com)
 // Date: 2018-06-30 00:04:49  
-// Revised: 2018-07-03 10:55:13 
 //
 // This script inserts additional css rules into Moodle pages for the  
 // proper rendering of showdon-gui.html.
@@ -20,7 +19,7 @@ margin:0;
 padding:0;
 font-family: Helvetica, Arial, Verdana, sans-serif;
 font-size: 90%;
-background-color: #ffffff; /* #e0d8d8; *?
+background-color: #e0d8d8;
 }
 
 html {
