@@ -3,7 +3,7 @@
 //
 // Author: JLA Uro (justineuro@gmail.com)
 // Date: 2018-06-30 00:04:49  
-// Revised: 2018-07-03 10:55:13 
+// Revised: 2018-07-03 10:55:13, 2018-07-04 19:06:43 
 //
 // This script inserts additional css rules into Moodle pages for the  
 // proper rendering of showdon-gui.html.
@@ -15,13 +15,13 @@
 const css = document.createElement( 'style' );
 
 css.textContent = `
-html,body { 
+/* html,body { 
 margin:0;
 padding:0;
 font-family: Helvetica, Arial, Verdana, sans-serif;
 font-size: 90%;
-background-color: #ffffff; /* #e0d8d8; *?
-}
+background-color: #ffffff; */ /*  #e0d8d8; 
+} */
 
 html {
 overflow: auto; /* hidden, visible */
